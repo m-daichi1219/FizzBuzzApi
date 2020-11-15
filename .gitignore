@@ -1,0 +1,9 @@
+﻿/.vs/FizzBuzzSample/DesignTimeBuild/.dtbcache.v2
+/.vs/FizzBuzzSample/v16/
+/.vs/FizzBuzzSample/config
+/FizzBuzzSample/obj
+/FizzBuzzSample/bin/*
+/.vs/FizzBuzzSampleXUnitTest/DesignTimeBuild/.dtbcache.v2
+/.vs/FizzBuzzSampleXUnitTest/v16/.suo
+/FizzBuzzSampleXUnitTest/obj
+/FizzBuzzSampleXUnitTest/bin/Debug/netcoreapp3.1
